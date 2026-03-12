@@ -1,4 +1,4 @@
-# 🍌 Nano-Edge API (Banana Edition) 🚀
+# Nano-Edge API (Banana Edition) 
 
 A hyper-optimized, low-latency microservice designed for edge data processing. Built for maximum performance using Fastify and Redis.
 
@@ -7,13 +7,13 @@ A hyper-optimized, low-latency microservice designed for edge data processing. B
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 
-## ✨ Features
+## Features
 - **Nano-Banana Latency:** Fastify-based architecture for high-throughput edge processing.
 - **Redis Integration:** Low-latency key-value storage with automatic expiration (TTL).
 - **Hardened Security:** Built-in CORS and Helmet protection for production-ready SecOps.
 - **Type-Safe Validation:** Full request body validation powered by Zod.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18+)
@@ -48,11 +48,11 @@ The server will start on `http://localhost:3000`.
 }
 ```
 
-## 📈 Tech Stack
+## Tech Stack
 - **Framework:** Fastify
 - **Database:** ioredis
 - **Validation:** Zod
 - **Infrastructure:** Prometheus/Grafana ready
 
 ---
-Built with 🍌 by [Belphegor-ux](https://github.com/Belphegor-ux)
+Built with by [Belphegor-ux](https://github.com/Belphegor-ux)
